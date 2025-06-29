@@ -304,3 +304,56 @@ Identifies System Boundaries: Clarifies what is within the scope of the system a
 
 Supports Design Decisions: Helps developers and designers plan architecture by visualizing key interactions early in the SDLC.
 ![Use Case Diagram](alx-booking-uc.png)
+
+## Acceptance Criteria
+Acceptance Criteria are specific conditions or rules that a software feature must meet to be accepted by stakeholders (e.g., clients, users, testers). They are written during the requirement analysis phase to ensure that everyone agrees on what "done" looks like for each feature.
+
+🎯 Why Acceptance Criteria Are Important
+Clarifies Expectations
+
+Eliminates ambiguity by defining clear, measurable outcomes.
+
+Ensures developers, testers, and stakeholders have the same understanding of each requirement.
+
+Supports Testing and Validation
+
+Forms the basis for test cases.
+
+Helps QA teams verify if a feature works as intended.
+
+Improves Development Focus
+
+Guides developers to build exactly what’s required — no more, no less.
+
+Reduces the risk of building features that don't match user needs.
+
+Enables Faster Feedback Loops
+
+By having agreed-upon criteria, stakeholders can quickly review and approve features.
+
+Helps with Task Completion and Planning
+
+Allows teams to mark tasks as "done" only when the acceptance criteria are met.
+
+Useful for Agile methodologies like Scrum.
+
+🧾 Example: Acceptance Criteria for the Checkout Feature
+(in a hotel booking management system)
+
+Feature: Checkout and Booking Confirmation
+
+Acceptance Criteria:
+
+The user must be able to review their selected room details, dates, and total cost before confirming the booking.
+
+The system must support secure online payment through at least one payment gateway.
+
+If payment is successful, the system must generate a booking ID and show a confirmation screen within 5 seconds.
+
+A booking confirmation email must be sent to the user within 1 minute of successful payment.
+
+If the payment fails, the user must see an error message with the option to retry or cancel the process.
+
+The selected room must be marked as "unavailable" in the database immediately after successful booking.
+
+
