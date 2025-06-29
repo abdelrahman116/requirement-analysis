@@ -303,3 +303,4 @@ Requirement Validation: Assists in validating functional requirements by showing
 Identifies System Boundaries: Clarifies what is within the scope of the system and what lies outside of it.
 
 Supports Design Decisions: Helps developers and designers plan architecture by visualizing key interactions early in the SDLC.
+![Use Case Diagram](alx-booking-uc.png)
