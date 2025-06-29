@@ -195,3 +195,85 @@ Requirement traceability matrices to ensure coverage in design and testing
 
 Goal: Confirm that requirements are accurate, feasible, and agreed upon by all parties.
 
+## Types of Requirements
+### 1. Functional Requirements
+Definition:
+Functional requirements define what the system should do — the specific features, behaviors, and functions the software must support.
+
+Examples for Hotel Booking Management System:
+
+User Registration and Authentication:
+Users must be able to sign up using email or phone and log in securely.
+
+Search and Filter Properties:
+Users can search for hotels based on location, date, price, rating, and availability.
+
+Booking Management:
+Users can:
+
+View room details
+
+Select dates and number of guests
+
+Book rooms
+
+Cancel or modify bookings
+
+Host Features:
+Hosts can:
+
+List new properties
+
+Upload images and descriptions
+
+Manage availability and pricing
+
+View bookings and earnings
+
+Payment Integration:
+Integration with payment gateways (e.g., Stripe, Razorpay) to enable secure online payments.
+
+Notification System:
+Email/SMS confirmations for bookings, cancellations, and reminders.
+
+### 2. Non-functional Requirements
+Definition:
+Non-functional requirements define how the system performs rather than what it does. These include system qualities like speed, security, and scalability.
+
+Examples for Hotel Booking Management System:
+
+Performance:
+
+The system should return search results in less than 2 seconds.
+
+Should handle up to 10,000 concurrent users during peak hours.
+
+Scalability:
+
+The system should scale horizontally to support growth in users, listings, and bookings.
+
+Microservices architecture should allow individual components (e.g., booking or payment service) to scale independently.
+
+Security:
+
+Use HTTPS for secure data transmission.
+
+All sensitive data (e.g., user credentials, payment info) should be encrypted.
+
+Implement role-based access control for users, admins, and hosts.
+
+Reliability and Availability:
+
+System uptime should be 99.9% or higher.
+
+Booking service must ensure no double-booking or lost reservations during outages.
+
+Usability:
+
+The user interface should be intuitive for both desktop and mobile platforms.
+
+First-time users should be able to complete a booking within 5 minutes without assistance.
+
+Maintainability:
+
+Codebase should follow clean code principles and be modular to allow easy updates or feature additions.
