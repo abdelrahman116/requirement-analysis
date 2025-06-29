@@ -91,3 +91,27 @@ Performance (e.g., load time < 2 seconds)
 Security (e.g., data encryption)
 
 Usability, scalability, reliability
+
+
+## Why is Requirement Analysis Important?
+1. ✅ Establishes a Clear Understanding Between Stakeholders and Developers
+Description:
+Requirement analysis ensures that all parties—clients, users, project managers, and developers—have a shared and accurate understanding of what the system should do. It reduces ambiguity and misunderstandings.
+
+Why it's critical:
+Without clear requirements, developers may build a system that doesn’t meet user needs, leading to rework, dissatisfaction, and wasted resources.
+
+2. 🛑 Prevents Scope Creep
+Description:
+By clearly defining what features and functions are within the project scope, requirement analysis helps prevent scope creep—the uncontrolled addition of features during development.
+
+Why it's critical:
+Scope creep can cause delays, increase costs, and derail the entire project. A well-analyzed requirement set helps teams stay focused on agreed-upon goals.
+
+3. 💰 Improves Cost, Time, and Resource Estimation
+Description:
+With detailed and validated requirements, project teams can accurately estimate the time, budget, and manpower needed for each development phase.
+
+Why it's critical:
+Poor estimation due to unclear requirements often leads to budget overruns, missed deadlines, and inadequate resource allocation.
+
