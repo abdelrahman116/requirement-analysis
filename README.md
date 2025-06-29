@@ -277,3 +277,29 @@ First-time users should be able to complete a booking within 5 minutes without a
 Maintainability:
 
 Codebase should follow clean code principles and be modular to allow easy updates or feature additions.
+
+## Use Case Diagrams
+
+ What Are Use Case Diagrams?
+Use Case Diagrams are a type of behavioral diagram used in Unified Modeling Language (UML) that visually represent how different users (called actors) interact with a system to achieve specific goals (called use cases). They provide a high-level overview of the system’s functionality from the user’s perspective.
+
+Each use case diagram typically includes:
+
+Actors: External entities (like users or other systems) that interact with the system.
+
+Use Cases: The specific actions or services the system performs in response to an actor’s interaction.
+
+Relationships: Connections between actors and use cases, such as association, include, and extend.
+
+✅ Benefits of Use Case Diagrams
+User-Centered Perspective: Helps teams understand what the users expect from the system.
+
+Clear Functional Overview: Offers a visual summary of the system’s capabilities and features.
+
+Improves Communication: Bridges the gap between technical teams and non-technical stakeholders by simplifying complex interactions.
+
+Requirement Validation: Assists in validating functional requirements by showing what the system should do in real-world scenarios.
+
+Identifies System Boundaries: Clarifies what is within the scope of the system and what lies outside of it.
+
+Supports Design Decisions: Helps developers and designers plan architecture by visualizing key interactions early in the SDLC.
