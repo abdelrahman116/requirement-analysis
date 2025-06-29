@@ -115,3 +115,83 @@ With detailed and validated requirements, project teams can accurately estimate 
 Why it's critical:
 Poor estimation due to unclear requirements often leads to budget overruns, missed deadlines, and inadequate resource allocation.
 
+## Key Activities in Requirement Analysis
+1. 📥 Requirement Gathering
+Collects raw information from stakeholders about what they need from the system.
+
+Involves techniques such as:
+
+Interviews with clients and users
+
+Surveys and questionnaires
+
+Workshops for group discussions
+
+Observation of users in their work environment
+
+Document analysis of current systems or processes
+
+Goal: Build a comprehensive list of potential requirements.
+
+2. 🧠 Requirement Elicitation
+Focuses on clarifying and refining the information gathered.
+
+Helps uncover hidden, conflicting, or misunderstood needs.
+
+Common techniques include:
+
+Brainstorming sessions to generate ideas
+
+Focus groups with selected stakeholders
+
+Prototyping to help users visualize the product and clarify needs
+
+Goal: Discover the true needs and expectations behind the initial input.
+
+3. 📝 Requirement Documentation
+Converts gathered and elicited information into clear, structured, and written form.
+
+Ensures consistency, traceability, and ease of reference throughout the project.
+
+Common documentation formats:
+
+Software Requirement Specification (SRS) documents
+
+User stories written from the user's perspective
+
+Use cases and use case diagrams showing interactions between users and the system
+
+Goal: Create a single source of truth for all project requirements.
+
+4. 📊 Requirement Analysis and Modeling
+Involves examining and organizing the documented requirements for better understanding and implementation.
+
+Activities include:
+
+Prioritizing requirements based on business value and feasibility
+
+Feasibility analysis to ensure the project is technically and financially doable
+
+Modeling using diagrams like:
+
+Data Flow Diagrams (DFDs)
+
+Entity-Relationship Diagrams (ERDs)
+
+Process Models or System Architecture Diagrams
+
+Goal: Ensure the requirements are complete, consistent, and realistic.
+
+5. ✅ Requirement Validation
+Ensures the documented requirements correctly represent stakeholder needs and are ready for design and development.
+
+Techniques used:
+
+Stakeholder reviews and walkthroughs
+
+Defining acceptance criteria for each requirement
+
+Requirement traceability matrices to ensure coverage in design and testing
+
+Goal: Confirm that requirements are accurate, feasible, and agreed upon by all parties.
+
